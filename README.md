@@ -4,5 +4,5 @@ Este é um pequeno projeto que consiste em um blog de programação feito com HT
 ## Como Usar
 Clone o repositório:
 ```shell
-git clone [https://github.com/ghenriquev/blog-projeto-php.git](https://github.com/ghenriquev/blog-projeto-php)
+git clone https://github.com/ghenriquev/blog-projeto-php.git
 ```
